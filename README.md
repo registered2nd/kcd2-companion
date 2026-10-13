@@ -26,7 +26,9 @@ The full suite for **Kingdom Come: Deliverance II**, in one window inside the ga
 
 ## Install
 
-Download **`KCD2-Companion-1.0.0.zip`** from the [latest release](../../releases) and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it.
+**Installer**: download **`KCD2-Companion-1.0.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+
+**Manual**: download **`KCD2-Companion-1.0.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it.
 
 Also on Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812
 
