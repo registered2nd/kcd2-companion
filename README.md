@@ -2,8 +2,6 @@
 
 A quest-aware trainer for **Kingdom Come: Deliverance II**. Go straight to where your current objective is, skip the busywork up to the next real decision, set Henry's stats, skills and money, switch on cheat modes, and reach any place, person, item, chest or achievement, from a window inside the game (**F6**) or a browser panel on a second screen. The decisions stay yours: an objective that can end more than one way shows each ending, and the trainer never picks one.
 
-**中文：** 《天国：拯救2》的任务修改器。游戏使用简体或繁体中文时，修改器整体显示中文。
-
 ![The F6 window: Quests](screenshots/quests.png)
 
 | | |
@@ -24,7 +22,7 @@ A quest-aware trainer for **Kingdom Come: Deliverance II**. Go straight to where
 - **Views** on every long list: items that can be had somewhere, quest items, what is in your bag, most valuable first; locked, unlocked or stocked chests; people within 50 m; shops or services only.
 - **F8** goes to the tracked quest's nearest current objective.
 - Jumps work on foot and on horseback, land on the floor under roofs and trees, and never inside a trigger area.
-- **Language**: names, objectives and journal lines always come from the game's own text, in whatever language it runs; in Chinese the trainer's buttons, guide and window are Chinese too.
+- **Languages**: English and Chinese for now, picked by your game's language setting; names, objectives and journal lines always come from the game's own text, in whatever language it runs.
 
 ## Install
 
