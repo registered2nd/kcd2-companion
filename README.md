@@ -12,7 +12,7 @@ The full suite for **Kingdom Come: Deliverance II**, in one window inside the ga
 ## Features
 
 - **Quests**: every current objective with **Go** (to its marker), **Summon** (when the marker is a person) and **Skip** (through the quest's own trigger, so the game's consequences run). **Skip to next decision** completes busywork one step at a time and stops at a decision, a conversation or a scene, then takes you there. Views of every objective and every open ending.
-- **Items**: all 5,120 in a category bar like the inventory's (weapons, armour and clothing, horse, food and drink, potions, herbs and crafting, books and maps, tools, dice, other), each category in the groups you look for: swords to firearms, helmet to boots, healing to poison, skill books by skill and volume. Best first, with the damage, defence, power, noise, charisma or nourishment and the price beside each name, as the inventory shows them at the item's best quality. **Give** any quantity; **Go** to the shops, chests and spots one can be had, nearest first.
+- **Items**: all 5,120 in a category bar like the inventory's (weapons, armour and clothing, horse, food and drink, potions, herbs and crafting, books and maps, tools, dice, other), each category in the groups you look for: swords to firearms, helmet to boots, healing to poison, skill books by skill and volume. Best first, with the damage, defence, power, noise, charisma or nourishment and the price beside each name, as the inventory shows them at the item's best quality. **Give** any quantity, of one item or (**Give all**) of every colour and pattern it comes in; **Go** to the shops, chests and spots one can be had, nearest first.
 - **Achievements**: all 83 Steam achievements with your earned state, each with the quest that grants it where the game says; **Unlock** sets an unearned one on your Steam account.
 - **Me**: health, stamina, nourishment and energy (refill one or all), groschen in steps up to +10,000, the four attributes and fifteen skills (+1 / +5 / Max).
 - **Misc**: Save now (no schnapps), Bring my horse, and nine **cheat modes**: God mode, Infinite stamina, Never hungry or tired, Unseen and unheard, Run twice as fast, Hit twice as hard, Gear never wears, Carry far more, Learn three times as fast.
@@ -38,7 +38,7 @@ Also on Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812
 
 Built and tested on Steam build **1.5.6** (23914554). The plugin reads the game's quest objects at fixed offsets, so a game update may need a rebuilt plugin. The Game Pass build of 1.5.6 is handled from published information and not yet tested; its Achievements tab stays empty (no Steam). Test on a copy of your save first.
 
-## I also make
+## Also by me
 
 - **Sandrock Companion** for My Time at Sandrock: go to your current objective, skip a step's busywork, give or find any item, achievements. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
 - **KCD Companion** for Kingdom Come: Deliverance: the same window, panel and tabs for the first game; Quest Autopilot is part of it. [GitHub](https://github.com/registered2nd/kcd-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2406)
