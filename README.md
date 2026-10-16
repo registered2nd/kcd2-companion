@@ -26,19 +26,22 @@ The full suite for **Kingdom Come: Deliverance II**, in one window inside the ga
 
 ## Install
 
-**Installer**: download **`KCD2-Companion-1.2.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD2-Companion-1.2.1-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD2-Companion-1.2.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it.
+**Manual**: download **`KCD2-Companion-1.2.1.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. A `Mods\mod_order.txt` (mod managers write one) makes the game load only the mods it lists; the plugin adds the Companion to it.
+
+**Game Pass** (untested): `INSTALL.txt` says where each piece goes; the installer finds Steam installs only.
 
 Also on Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812
 
 ## Compatibility
 
-Built and tested on Steam build **1.5.6** (23914554). The plugin reads the game's quest objects at fixed offsets, so a game update may need a rebuilt plugin. Test on a copy of your save first.
+Built and tested on Steam build **1.5.6** (23914554). The plugin reads the game's quest objects at fixed offsets, so a game update may need a rebuilt plugin. The Game Pass build of 1.5.6 is handled from published information and not yet tested; its Achievements tab stays empty (no Steam). Test on a copy of your save first.
 
-## Kingdom Come: Deliverance (the first game)
+## I also make
 
-The first game's trainer, with the same window, panel and tabs, is **KCD Companion**: https://github.com/registered2nd/kcd-companion (Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance/mods/2406). Quest Autopilot is part of it.
+- **Sandrock Companion** for My Time at Sandrock: go to your current objective, skip a step's busywork, give or find any item, achievements. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
+- **KCD Companion** for Kingdom Come: Deliverance: the same window, panel and tabs for the first game; Quest Autopilot is part of it. [GitHub](https://github.com/registered2nd/kcd-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2406)
 
 ## Credits
 
