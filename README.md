@@ -1,6 +1,14 @@
 # KCD2 Companion
 
-The full suite for **Kingdom Come: Deliverance II**, in one window inside the game (**F6**) or a browser panel on a second screen. **Quests**: go straight to your current objective, or skip the busywork up to the next real decision. **Items**: all 5,120 laid out like a shop, best first with their damage, armour and price; give yourself any of them, or go to where one is sold or lying. **Achievements**: see which of the 83 you have and the quest that grants each, and unlock any of them. Then Henry's stats, skills and money, nine cheat modes, and every person, place and chest around you. The decisions stay yours: an objective that can end more than one way shows each ending, and the mod never picks one.
+The full suite for **Kingdom Come: Deliverance II**, in one window inside the game (**F6**) or a browser panel on a second screen.
+
+- **Quests**: go straight to your current objective, or skip the busywork up to the next real decision. An objective that can end more than one way shows each ending; the choice stays yours.
+- **Items**: all 5,120, laid out like a shop, best first with their damage, armour and price. Give yourself any of them, or go to where one is sold or lying.
+- **Me**: Henry's health, stamina, stats, skills and money.
+- **Cheat modes**: God mode, infinite stamina, never hungry or tired, unseen and unheard, run faster, hit harder, gear never wears, carry more, learn faster.
+- **Achievements**: all 83, with the quest that grants each. Unlock any of them.
+- **People, places and chests**: go to any of them, or bring a person to you.
+- **Misc**: save anywhere without Saviour Schnapps, bring your horse, and **F8** jumps to the quest you're tracking.
 
 ![The F6 window: Quests](screenshots/quests.png)
 
@@ -32,7 +40,7 @@ The full suite for **Kingdom Come: Deliverance II**, in one window inside the ga
 
 **Game Pass** (untested): `INSTALL.txt` says where each piece goes; the installer finds Steam installs only.
 
-Also on Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812
+Also on Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812 and the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3821323940) (the window and panel still need the plugin from the installer or the zip).
 
 ## Compatibility
 
@@ -40,8 +48,8 @@ Built and tested on Steam build **1.5.6** (23914554). The plugin reads the game'
 
 ## Also by me
 
-- **Sandrock Companion** for My Time at Sandrock: go to your current objective, skip a step's busywork, give or find any item, achievements. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
-- **KCD Companion** for Kingdom Come: Deliverance: the same window, panel and tabs for the first game; Quest Autopilot is part of it. [GitHub](https://github.com/registered2nd/kcd-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2406)
+- **Sandrock Companion** for My Time at Sandrock: the full suite: quests, items, achievements, stats and money, cheat modes, people, places and chests. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
+- **KCD Companion** for Kingdom Come: Deliverance: the full suite: quests, items, achievements, Henry's stats and money, cheat modes, people, places and chests; Quest Autopilot is part of it. [GitHub](https://github.com/registered2nd/kcd-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2406)
 
 ## Credits
 
