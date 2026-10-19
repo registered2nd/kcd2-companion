@@ -38,9 +38,9 @@ A skip completes an objective without playing it. Most of the game's objectives 
 
 ## Install
 
-**Installer**: download **`KCD2-Companion-1.4.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game on Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD2-Companion-1.4.1-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game on Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD2-Companion-1.4.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. A `Mods\mod_order.txt` (mod managers write one) makes the game load only the mods it lists; the plugin adds the Companion to it.
+**Manual**: download **`KCD2-Companion-1.4.1.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. A `Mods\mod_order.txt` (mod managers write one) makes the game load only the mods it lists; the plugin adds the Companion to it.
 
 **GOG and Epic** (untested): the installer puts the files beside that store's `KingdomCome.exe`. By hand: the game runs from `Bin\Win64MasterMasterGogPGO\` (Epic: `Bin\Win64MasterMasterEpicPGO\`). Extract the zip into the game folder as above, then move what it put in `Bin\Win64MasterMasterSteamPGO\` into that folder, next to `KingdomCome.exe`.
 
