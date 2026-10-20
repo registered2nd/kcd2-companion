@@ -34,7 +34,7 @@ The full suite for **Kingdom Come: Deliverance II**, in one window inside the ga
 
 ## Quest skips: read this
 
-A skip completes an objective without playing it. Most of the game's objectives (about 2,030 of 2,373 endings) now skip the way the game completes them. The rest, about 350, are marked **Skip (risky)** and ask first, because finishing them takes something a skip cannot do (an item collected, a fight fought, a person killed). A risky skip can leave leftovers in your save, such as a later quest that never gets its marker, and the only way back is a save from before it. Keep one, or use **Go** and play those parts.
+A skip completes an objective without playing it. Of the game's 2,373 objective endings, about 1,850 skip the way the game completes them, as worked out from its quest data; the main story is being checked in play. About 390 are marked **Skip (risky)** and ask first, because finishing them takes something a skip cannot do (an item collected, a fight fought, a person killed) or what completes them could not be worked out. About 140 have no Skip: the game sets them in a way the trainer cannot trigger, or they are cut content that never comes up. A risky skip can leave leftovers in your save, such as a later quest that never gets its marker, and the only way back is a save from before it. Keep one, or use **Go** and play those parts.
 
 ## Install
 
