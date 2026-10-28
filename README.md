@@ -2,7 +2,11 @@
 
 The full suite for **Kingdom Come: Deliverance II**, in one window inside the game (**F6**) or a browser panel on a second screen.
 
-**1.4.10**: a major update, 1.5.0, is on its way. This interim release comes first because it already fixes many of the problems players have hit with quest skips. Why this takes time is under [Quest skips: read this](#quest-skips-read-this).
+**1.5.0 is the biggest update so far.** More than 110 fixes since 1.4.10 change how Skip handles 269 quest steps in 75 quests; counted from 1.4.9, Skip now works differently for 1,588 of the game's 2,382 step endings.
+
+**What the project covers:** Skip covers 205 quests and every way their steps can end, 2,382 in all. We are playing every quest through, step by step, and checking each Skip against the real game: 767 step endings so far, and 25 quests finished from start to end.
+
+**What comes next:** the complete version, 2.0, arrives when every quest has been played through. 1.6, 1.7 and so on may come in between, or 2.0 as soon as next week.
 
 - **Quests**: go straight to your current objective, or skip the busywork up to the next real decision. An objective that can end more than one way shows each ending; the choice stays yours.
 - **Items**: all 5,120, laid out like a shop, best first with their damage, armour and price. Give yourself any of them, or go to where one is sold or lying.
@@ -36,13 +40,13 @@ The full suite for **Kingdom Come: Deliverance II**, in one window inside the ga
 
 ## Quest skips: read this
 
-A skip completes an objective without playing it, and it has to leave the world the way playing it would. KCD2's quests are long chains of conversations, scenes, fights and objects, and later steps read what each one left behind: who is alive and where they are, what was said, what Henry carries, whether a crime was seen. The game has no modding interface for any of this, so every pattern has to be found and tested by hand, and every quest is being tested step by step on several machines. The panel marks about 410 of the game's 2,382 objective endings **Skip (risky)**, where we know a skip cannot yet do what play does, and asks before those; the testing keeps finding problems in other skips too. About 120 have no Skip: the game sets them in a way the trainer cannot trigger, or they are cut content that never comes up. A skip that goes wrong can leave leftovers in your save, such as a later quest that never gets its marker, and the only way back is a save from before it. Keep a save from before any skip you care about, or use **Go** and play that part.
+A skip completes an objective without playing it, and it has to leave the world the way playing it would. KCD2's quests are long chains of conversations, scenes, fights and objects, and later steps read what each one left behind: who is alive and where they are, what was said, what Henry carries, whether a crime was seen. The game has no modding interface for any of this, so every pattern has to be found and tested by hand, and every quest is being tested step by step on several machines. The panel marks about 385 of the game's 2,382 objective endings **Skip (risky)**, where we know a skip cannot yet do what play does, and asks before those; the testing keeps finding problems in other skips too. About 120 have no Skip: the game sets them in a way the trainer cannot trigger, or they are cut content that never comes up. A skip that goes wrong can leave leftovers in your save, such as a later quest that never gets its marker, and the only way back is a save from before it. Keep a save from before any skip you care about, or use **Go** and play that part.
 
 ## Install
 
-**Installer**: download **`KCD2-Companion-1.4.10-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game on Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD2-Companion-1.5.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game on Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD2-Companion-1.4.10.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. A `Mods\mod_order.txt` (mod managers write one) makes the game load only the mods it lists; the plugin adds the Companion to it.
+**Manual**: download **`KCD2-Companion-1.5.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17602** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. A `Mods\mod_order.txt` (mod managers write one) makes the game load only the mods it lists; the plugin adds the Companion to it.
 
 **GOG and Epic** (untested): the installer puts the files beside that store's `KingdomCome.exe`. By hand: the game runs from `Bin\Win64MasterMasterGogPGO\` (Epic: `Bin\Win64MasterMasterEpicPGO\`). Extract the zip into the game folder as above, then move what it put in `Bin\Win64MasterMasterSteamPGO\` into that folder, next to `KingdomCome.exe`.
 
