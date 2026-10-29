@@ -2,11 +2,13 @@
 
 The full suite for **Kingdom Come: Deliverance II**, in one window inside the game (**F6**) or a browser panel on a second screen.
 
-**1.5.0 is the biggest update so far.** More than 110 fixes since 1.4.10 change how Skip handles 269 quest steps in 75 quests; counted from 1.4.9, Skip now works differently for 1,588 of the game's 2,382 step endings.
+**Skip has had real problems, and we're fixing them one by one.** In earlier versions, many Skips didn't do what playing does: a skipped conversation could sit on a black screen, a skipped fight could end with enemies still standing, a skipped hand-over could leave the item in the chest. In 1.4.9 the panel marked 520 Skips **risky**: ones we already knew didn't match play.
 
-**What the project covers:** Skip covers 205 quests and every way their steps can end, 2,382 in all. We are playing every quest through, step by step, and checking each Skip against the real game: 767 step endings so far, and 25 quests finished from start to end.
+**What we're doing about it.** We're replaying every quest in the real game, step by step, and checking each Skip against what happens when you play it yourself. When a Skip does something different, we fix it so it uses the game's own conversation, fight or hand-over, or we take that Skip out. 1.5.0 is the biggest update so far, with more than 110 of those fixes.
 
-**What comes next:** the complete version, 2.0, arrives when every quest has been played through. 1.6, 1.7 and so on may come in between, or 2.0 as soon as next week.
+**Where it stands at 1.5.0.** KCD2's 205 quests have 2,382 Skips, one for every way a step can end. We've checked 767 of them and finished 25 quests from start to end. The risky list is down from 520 to 385. Testing also finds problems in Skips that weren't marked risky, so keep a save from before any Skip you care about, or use **Go** and play that part.
+
+**What's next.** Version 2.0, once every quest has been checked.
 
 - **Quests**: go straight to your current objective, or skip the busywork up to the next real decision. An objective that can end more than one way shows each ending; the choice stays yours.
 - **Items**: all 5,120, laid out like a shop, best first with their damage, armour and price. Give yourself any of them, or go to where one is sold or lying.
